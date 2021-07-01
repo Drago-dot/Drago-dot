@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Drago-dot
-- 👀 I’m interested in ...web dev, ai, cyber security
+- 👀 I’m interested in ...web dev, ai, data science
 - 🌱 I’m currently learning ...javascript, python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kyledrago9@gmail.com
+- 📫 How to reach me ...dragoforwork@gmail.com
+- 
 - 
 
 <!---
