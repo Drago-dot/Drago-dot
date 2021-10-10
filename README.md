@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Drago-dot
 - 👀 I’m interested in ...web dev, ai, data science
-- 🌱 I’m currently learning ...data base, backend web dev
+- 🌱 I’m currently learning ...sql, python tensor flow, javascript
+- 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...dragoforwork@gmail.com
+- 📫 How to reach me ...pyaehmuepaing49@gmail.com
+- 
 - 
 - 
 
