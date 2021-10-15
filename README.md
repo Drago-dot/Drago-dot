@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drago-dot
-- 👀 I’m interested in ...web dev, ai, data science
+- 👀 I’m interested in ...web dev, data science
 - 🌱 I’m currently learning ...sql, python tensor flow, javascript
 - 
 - 💞️ I’m looking to collaborate on ...
